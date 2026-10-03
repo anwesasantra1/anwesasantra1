@@ -67,7 +67,9 @@ Topics I'm working on:
 - Trees
 - Graphs
 - Dynamic Programming
-contacts :
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_LIN- 🐙 GitHub: [@YourUsername](YOUR_GITHUB_LINK)
-- 📧 Email: 
+## Contacts 
+
+- 💼 LinkedIn: [Anwesa Santra](https://www.linkedin.com/in/anwesa-santra-341836348?utm_source=share_via&utm_content=profile&utm_medium=member_android)🐙 
+- 📧 Email: anwesasantra1126@gmail.com
+
